@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "369023582992",
+    "project_id": "spendsense-730ea",
+    "storage_bucket": "spendsense-730ea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369023582992:android:c3489b4326f445adea1b95",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFFKp4zD7FQbeYnMVpV9b8O4zbyG20JQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
